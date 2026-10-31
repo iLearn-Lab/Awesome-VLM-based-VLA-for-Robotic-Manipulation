@@ -221,6 +221,7 @@
 | 2025 | arXiv | [DexGraspVLA: A vision-language-action framework towards general dexterous grasping](https://arxiv.org/abs/2502.20900) | [🌐](https://dexgraspvla.github.io/) | [💻](https://github.com/Psi-Robot/DexGraspVLA) |
 | 2025 | arXiv | [HiBerNAC: Hierarchical brain-emulated robotic neural agent collective for disentangling complex manipulation](https://arxiv.org/abs/2506.08296) | - | - |
 | 2025 | arXiv | [Robix: A Unified Model for Robot Interaction, Reasoning and Planning](https://arxiv.org/pdf/2509.01106) | [🌐](https://robix-seed.github.io/robix/) | - |
+| 2026 | arXiv | [Spotter: Let the Embodied Model Lead, and the VLM Reflect for It](https://arxiv.org/abs/2609.36808) | [🌐](https://zqc3117.github.io/Spotter/) | [💻](https://github.com/zqc3117/Spotter) |
 
 
 
